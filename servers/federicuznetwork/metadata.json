@@ -1,0 +1,12 @@
+{
+  "id": "federicuznetwork",
+  "name": "Federicuz Network",
+  "addresses": [
+    "play.federicuznetwork.eu"
+  ],
+  "primaryAddress": "play.federicuznetwork.eu",
+  "socials": {
+    "discord": "https://discord.federicuznetwork.eu",
+    "website": "https://federicuznetwork.odoo.com"
+  }
+}
